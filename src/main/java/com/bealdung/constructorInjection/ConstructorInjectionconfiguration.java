@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import com.bealdung.model.Helm;
 
 @Configuration
-public class config {
+public class ConstructorInjectionconfiguration {
 
     @Bean
     public Helm helm() {
