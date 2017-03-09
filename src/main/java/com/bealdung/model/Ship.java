@@ -1,4 +1,4 @@
-package com.bealdung.constructorInjection;
+package com.bealdung.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

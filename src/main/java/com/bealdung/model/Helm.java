@@ -1,4 +1,4 @@
-package com.bealdung.constructorInjection;
+package com.bealdung.model;
 
 public class Helm {
     private String message = "helm message";
